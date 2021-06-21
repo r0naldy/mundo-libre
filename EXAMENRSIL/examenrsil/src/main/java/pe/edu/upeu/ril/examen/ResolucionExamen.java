@@ -128,8 +128,15 @@ public int potencia(int x,int n) {
  
 
 
-public static void ejercicio_4(){
-    //declaración de variables
+
+
+
+/*ejercicio extra de los numeros perfectos colocando numeros*/
+
+
+
+public static void ejercicioextranumerosperfectos(){
+   
     int a=1, b=1,c;
     int divi=0;
     System.out.println("- NUMEROS PERFECTOS - ");
@@ -137,17 +144,16 @@ public static void ejercicio_4(){
     System.out.print("Ingrese un número: ");
     c = lk.nextInt();
     lk.nextLine();
-    //proceso
+
     while(b<=c){
-//            System.out.println(""+b);
         divi=0;
         a=1;
+
             while (a<=b/2){
             if(b%a == 0){
                 divi = divi+a;}
             a++;
         }
-        //resultado
         if (b==divi){
             System.out.println(b+" Es Perfecto");
         } 
@@ -162,7 +168,7 @@ public static void ejercicio_4(){
         //tablaMulticacion();
         //ImpuestoPorAutomoviles();
         //numerosPerfectos();
-        ejercicio_4();
+        ejercicioextranumerosperfectos();
         
     }   
 }
