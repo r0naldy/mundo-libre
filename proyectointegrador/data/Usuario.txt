@@ -1,4 +1,0 @@
-U1	ronaldy	123	null	ADMINISTRADOR
-U1	ronaldy	123	null	ADMINISTRADOR
-U2	ronald	123	null	ADMINSTRADOR
-U2	ronald	123	null	ADMINSTRADOR

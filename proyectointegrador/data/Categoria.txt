@@ -1,5 +1,0 @@
-C1	Alpaca Suri
-C2	Alpaca Huacaya
-C3	Llama
-C4	Alpaca carne
-C5	Llama Carne
